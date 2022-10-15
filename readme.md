@@ -1,7 +1,7 @@
 # Uzdevumi
 
 Lūdzu pildiet sekojošos uzdevumus pēc kārtas:
-- [ ] izveidot jaunu "commit" un aizsūtīt uz GitHub
-- [ ] Aplūkot rezultātu GitHub
-- [ ] Pievietot .html .... un 
-- [ ] macos
+- [x] izveidot jaunu "commit" un aizsūtīt uz GitHub
+- [x] Aplūkot rezultātu GitHub
+- [x] Pievietot .html .... un 
+- [x] macos
